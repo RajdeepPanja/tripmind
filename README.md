@@ -342,7 +342,7 @@ pytest
 
 ## 🎥 Demo
 
-**Demo video:** `ADD YOUR YOUTUBE / DEMO VIDEO LINK HERE`
+**Demo video:** https://youtu.be/veIr7_Mk3sQ
 
 The demo shows TripMind running locally and demonstrates the travel-planning workflow.
 
